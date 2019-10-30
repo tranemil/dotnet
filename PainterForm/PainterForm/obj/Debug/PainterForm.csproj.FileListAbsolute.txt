@@ -1,0 +1,30 @@
+C:\Users\cstuser\source\repos\PainterForm\PainterForm\bin\Debug\PainterForm.exe.config
+C:\Users\cstuser\source\repos\PainterForm\PainterForm\bin\Debug\PainterForm.exe
+C:\Users\cstuser\source\repos\PainterForm\PainterForm\bin\Debug\PainterForm.pdb
+C:\Users\cstuser\source\repos\PainterForm\PainterForm\obj\Debug\PainterForm.csprojAssemblyReference.cache
+C:\Users\cstuser\source\repos\PainterForm\PainterForm\obj\Debug\PainterForm.PainterForm.resources
+C:\Users\cstuser\source\repos\PainterForm\PainterForm\obj\Debug\PainterForm.Properties.Resources.resources
+C:\Users\cstuser\source\repos\PainterForm\PainterForm\obj\Debug\PainterForm.csproj.GenerateResource.cache
+C:\Users\cstuser\source\repos\PainterForm\PainterForm\obj\Debug\PainterForm.csproj.CoreCompileInputs.cache
+C:\Users\cstuser\source\repos\PainterForm\PainterForm\obj\Debug\PainterForm.exe
+C:\Users\cstuser\source\repos\PainterForm\PainterForm\obj\Debug\PainterForm.pdb
+D:\school\C#\GUI\PainterForm\PainterForm\bin\Debug\PainterForm.exe.config
+D:\school\C#\GUI\PainterForm\PainterForm\bin\Debug\PainterForm.exe
+D:\school\C#\GUI\PainterForm\PainterForm\bin\Debug\PainterForm.pdb
+D:\school\C#\GUI\PainterForm\PainterForm\obj\Debug\PainterForm.csprojAssemblyReference.cache
+D:\school\C#\GUI\PainterForm\PainterForm\obj\Debug\PainterForm.PainterForm.resources
+D:\school\C#\GUI\PainterForm\PainterForm\obj\Debug\PainterForm.Properties.Resources.resources
+D:\school\C#\GUI\PainterForm\PainterForm\obj\Debug\PainterForm.csproj.GenerateResource.cache
+D:\school\C#\GUI\PainterForm\PainterForm\obj\Debug\PainterForm.csproj.CoreCompileInputs.cache
+D:\school\C#\GUI\PainterForm\PainterForm\obj\Debug\PainterForm.exe
+D:\school\C#\GUI\PainterForm\PainterForm\obj\Debug\PainterForm.pdb
+D:\school\C#\Assignment 5\PainterForm\PainterForm\bin\Debug\PainterForm.exe.config
+D:\school\C#\Assignment 5\PainterForm\PainterForm\bin\Debug\PainterForm.exe
+D:\school\C#\Assignment 5\PainterForm\PainterForm\bin\Debug\PainterForm.pdb
+D:\school\C#\Assignment 5\PainterForm\PainterForm\obj\Debug\PainterForm.csprojAssemblyReference.cache
+D:\school\C#\Assignment 5\PainterForm\PainterForm\obj\Debug\PainterForm.PainterForm.resources
+D:\school\C#\Assignment 5\PainterForm\PainterForm\obj\Debug\PainterForm.Properties.Resources.resources
+D:\school\C#\Assignment 5\PainterForm\PainterForm\obj\Debug\PainterForm.csproj.GenerateResource.cache
+D:\school\C#\Assignment 5\PainterForm\PainterForm\obj\Debug\PainterForm.csproj.CoreCompileInputs.cache
+D:\school\C#\Assignment 5\PainterForm\PainterForm\obj\Debug\PainterForm.exe
+D:\school\C#\Assignment 5\PainterForm\PainterForm\obj\Debug\PainterForm.pdb
