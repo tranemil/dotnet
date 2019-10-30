@@ -1,0 +1,14 @@
+C:\Users\cstuser\source\repos\LetterSort\LetterSort\bin\Debug\LetterSort.exe.config
+C:\Users\cstuser\source\repos\LetterSort\LetterSort\bin\Debug\LetterSort.exe
+C:\Users\cstuser\source\repos\LetterSort\LetterSort\bin\Debug\LetterSort.pdb
+C:\Users\cstuser\source\repos\LetterSort\LetterSort\obj\Debug\LetterSort.csprojAssemblyReference.cache
+C:\Users\cstuser\source\repos\LetterSort\LetterSort\obj\Debug\LetterSort.csproj.CoreCompileInputs.cache
+C:\Users\cstuser\source\repos\LetterSort\LetterSort\obj\Debug\LetterSort.exe
+C:\Users\cstuser\source\repos\LetterSort\LetterSort\obj\Debug\LetterSort.pdb
+D:\C#\LetterSort\LetterSort\LetterSort\bin\Debug\LetterSort.exe.config
+D:\C#\LetterSort\LetterSort\LetterSort\bin\Debug\LetterSort.exe
+D:\C#\LetterSort\LetterSort\LetterSort\bin\Debug\LetterSort.pdb
+D:\C#\LetterSort\LetterSort\LetterSort\obj\Debug\LetterSort.csprojAssemblyReference.cache
+D:\C#\LetterSort\LetterSort\LetterSort\obj\Debug\LetterSort.csproj.CoreCompileInputs.cache
+D:\C#\LetterSort\LetterSort\LetterSort\obj\Debug\LetterSort.exe
+D:\C#\LetterSort\LetterSort\LetterSort\obj\Debug\LetterSort.pdb

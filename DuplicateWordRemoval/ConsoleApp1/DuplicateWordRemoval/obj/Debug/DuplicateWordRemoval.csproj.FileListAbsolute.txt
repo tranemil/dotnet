@@ -1,0 +1,7 @@
+D:\C#\DuplicateWordRemoval\ConsoleApp1\DuplicateWordRemoval\bin\Debug\ConsoleApp1.exe.config
+D:\C#\DuplicateWordRemoval\ConsoleApp1\DuplicateWordRemoval\bin\Debug\ConsoleApp1.exe
+D:\C#\DuplicateWordRemoval\ConsoleApp1\DuplicateWordRemoval\bin\Debug\ConsoleApp1.pdb
+D:\C#\DuplicateWordRemoval\ConsoleApp1\DuplicateWordRemoval\obj\Debug\DuplicateWordRemoval.csprojAssemblyReference.cache
+D:\C#\DuplicateWordRemoval\ConsoleApp1\DuplicateWordRemoval\obj\Debug\DuplicateWordRemoval.csproj.CoreCompileInputs.cache
+D:\C#\DuplicateWordRemoval\ConsoleApp1\DuplicateWordRemoval\obj\Debug\ConsoleApp1.exe
+D:\C#\DuplicateWordRemoval\ConsoleApp1\DuplicateWordRemoval\obj\Debug\ConsoleApp1.pdb

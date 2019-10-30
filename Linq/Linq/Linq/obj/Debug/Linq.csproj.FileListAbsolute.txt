@@ -1,0 +1,14 @@
+C:\Users\cstuser\source\repos\Linq\Linq\obj\Debug\Linq.csprojAssemblyReference.cache
+C:\Users\cstuser\source\repos\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+C:\Users\cstuser\source\repos\Linq\Linq\bin\Debug\Linq.exe.config
+C:\Users\cstuser\source\repos\Linq\Linq\bin\Debug\Linq.exe
+C:\Users\cstuser\source\repos\Linq\Linq\bin\Debug\Linq.pdb
+C:\Users\cstuser\source\repos\Linq\Linq\obj\Debug\Linq.exe
+C:\Users\cstuser\source\repos\Linq\Linq\obj\Debug\Linq.pdb
+D:\C#\Linq\Linq\Linq\bin\Debug\Linq.exe.config
+D:\C#\Linq\Linq\Linq\bin\Debug\Linq.exe
+D:\C#\Linq\Linq\Linq\bin\Debug\Linq.pdb
+D:\C#\Linq\Linq\Linq\obj\Debug\Linq.csprojAssemblyReference.cache
+D:\C#\Linq\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+D:\C#\Linq\Linq\Linq\obj\Debug\Linq.exe
+D:\C#\Linq\Linq\Linq\obj\Debug\Linq.pdb
