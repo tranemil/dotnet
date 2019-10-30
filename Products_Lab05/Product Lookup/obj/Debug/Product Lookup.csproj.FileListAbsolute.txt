@@ -1,0 +1,23 @@
+C:\Users\cstuser\source\repos\PhoneBook\Product Lookup\bin\Debug\ProductDB.mdf
+C:\Users\cstuser\source\repos\PhoneBook\Product Lookup\bin\Debug\ProductDB_log.ldf
+C:\Users\cstuser\source\repos\PhoneBook\Product Lookup\bin\Debug\Product Lookup.exe.config
+C:\Users\cstuser\source\repos\PhoneBook\Product Lookup\bin\Debug\Product Lookup.exe
+C:\Users\cstuser\source\repos\PhoneBook\Product Lookup\bin\Debug\Product Lookup.pdb
+C:\Users\cstuser\source\repos\PhoneBook\Product Lookup\obj\Debug\Product_Lookup.Form1.resources
+C:\Users\cstuser\source\repos\PhoneBook\Product Lookup\obj\Debug\Product_Lookup.Properties.Resources.resources
+C:\Users\cstuser\source\repos\PhoneBook\Product Lookup\obj\Debug\Product Lookup.csproj.GenerateResource.cache
+C:\Users\cstuser\source\repos\PhoneBook\Product Lookup\obj\Debug\Product Lookup.csproj.CoreCompileInputs.cache
+C:\Users\cstuser\source\repos\PhoneBook\Product Lookup\obj\Debug\Product Lookup.exe
+C:\Users\cstuser\source\repos\PhoneBook\Product Lookup\obj\Debug\Product Lookup.pdb
+D:\PhoneBook\Product Lookup\bin\Debug\ProductDB.mdf
+D:\PhoneBook\Product Lookup\bin\Debug\ProductDB_log.ldf
+D:\PhoneBook\Product Lookup\bin\Debug\Product Lookup.exe.config
+D:\PhoneBook\Product Lookup\bin\Debug\Product Lookup.exe
+D:\PhoneBook\Product Lookup\bin\Debug\Product Lookup.pdb
+D:\PhoneBook\Product Lookup\obj\Debug\Product Lookup.csprojAssemblyReference.cache
+D:\PhoneBook\Product Lookup\obj\Debug\Product_Lookup.Form1.resources
+D:\PhoneBook\Product Lookup\obj\Debug\Product_Lookup.Properties.Resources.resources
+D:\PhoneBook\Product Lookup\obj\Debug\Product Lookup.csproj.GenerateResource.cache
+D:\PhoneBook\Product Lookup\obj\Debug\Product Lookup.csproj.CoreCompileInputs.cache
+D:\PhoneBook\Product Lookup\obj\Debug\Product Lookup.exe
+D:\PhoneBook\Product Lookup\obj\Debug\Product Lookup.pdb

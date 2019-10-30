@@ -1,0 +1,12 @@
+D:\PhoneBook\Product Queries\bin\Debug\ProductDB.mdf
+D:\PhoneBook\Product Queries\bin\Debug\ProductDB_log.ldf
+D:\PhoneBook\Product Queries\bin\Debug\Product Queries.exe.config
+D:\PhoneBook\Product Queries\bin\Debug\Product Queries.exe
+D:\PhoneBook\Product Queries\bin\Debug\Product Queries.pdb
+D:\PhoneBook\Product Queries\obj\Debug\Product Queries.csprojAssemblyReference.cache
+D:\PhoneBook\Product Queries\obj\Debug\Product_Queries.ProductQueryForm.resources
+D:\PhoneBook\Product Queries\obj\Debug\Product_Queries.Properties.Resources.resources
+D:\PhoneBook\Product Queries\obj\Debug\Product Queries.csproj.GenerateResource.cache
+D:\PhoneBook\Product Queries\obj\Debug\Product Queries.csproj.CoreCompileInputs.cache
+D:\PhoneBook\Product Queries\obj\Debug\Product Queries.exe
+D:\PhoneBook\Product Queries\obj\Debug\Product Queries.pdb

@@ -1,0 +1,11 @@
+D:\PhoneBook\Product Search\bin\Debug\ProductDB.mdf
+D:\PhoneBook\Product Search\bin\Debug\ProductDB_log.ldf
+D:\PhoneBook\Product Search\bin\Debug\Product Search.exe.config
+D:\PhoneBook\Product Search\bin\Debug\Product Search.exe
+D:\PhoneBook\Product Search\bin\Debug\Product Search.pdb
+D:\PhoneBook\Product Search\obj\Debug\Product_Search.Form1.resources
+D:\PhoneBook\Product Search\obj\Debug\Product_Search.Properties.Resources.resources
+D:\PhoneBook\Product Search\obj\Debug\Product Search.csproj.GenerateResource.cache
+D:\PhoneBook\Product Search\obj\Debug\Product Search.csproj.CoreCompileInputs.cache
+D:\PhoneBook\Product Search\obj\Debug\Product Search.exe
+D:\PhoneBook\Product Search\obj\Debug\Product Search.pdb
